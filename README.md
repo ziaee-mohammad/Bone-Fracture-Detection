@@ -159,6 +159,7 @@ python -m src.detect_yolo   --model yolov8s.pt   --source data/fracture_xray/ima
 **Mohammad Ziaee** — Computer Engineer | AI & Data Science  
 📧 moha2012zia@gmail.com  
 🔗 https://github.com/ziaee-mohammad
+👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
 
